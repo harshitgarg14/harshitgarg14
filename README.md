@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Harshit Verma  
+# 💫 Hi 👋, I'm Harshit Garg  
 **A passionate Full Stack Developer | MERN Stack Enthusiast 🇮🇳**
 
 📬 **Reach me at:** harshitgarg1231@gmail.com | GitHub | LinkedIn
